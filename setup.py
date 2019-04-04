@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='bankingapi',
-      version='0.1.1',
+      version='0.1.2',
       description='Banking API',
       url='http://github.com/IJustDev/BankingAPI',
       author='ijustdev',

@@ -1,8 +1,8 @@
 Banking API
 ***********
 
-Quick Start
-############
+Quick Start for DKB
+###################
 
 Initializing the API::
 
