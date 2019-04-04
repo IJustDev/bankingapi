@@ -1,1 +1,8 @@
-__pycache__
+[Python]
+__pycache__/
+
+[IDEs]
+.vscode/
+
+[Geckodriver]
+geckodriver.log
