@@ -11,4 +11,8 @@ Added documentation tree for viewing in readthedocs.io.
 Added: fetch_all_transactions() function for DKB.
 
 # 0.1.4 - 04-04-2019
-Fixing: No package named parser
+Fixed: No package named parser
+
+# 0.1.5 - 04-04-2019
+Added: Long Description
+Fixed: #1 fetch_all_transactions() return amount as float, not as string

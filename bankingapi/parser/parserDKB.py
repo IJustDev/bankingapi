@@ -55,7 +55,7 @@ class DKBParser:
                 "transactionText").text.replace("\n", " ")
             date = item.find_element_by_class_name(
                 "transactionDate").text.split("\n")[0]
-            amount = item.find_element_by_class_name(
-                "alignRight").text
+            amount = float(item.find_element_by_class_name(
+                "alignRight").text.replace(",", ".").replace("€", ""))
             transactions.append((date, description, amount))
         return transactions
