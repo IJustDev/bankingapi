@@ -1,5 +1,8 @@
 [Python]
 __pycache__/
+build/
+dist/
+bankingapi.egg-info/
 
 [IDEs]
 .vscode/

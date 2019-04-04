@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from .parser.parserDKB import DKBParser
-from .exceptions.ItemNotFoundError import ItemNotFoundError
+from bankingapi.parser.parserDKB import DKBParser
+from bankingapi.exceptions.ItemNotFoundError import ItemNotFoundError
 import time
 
 

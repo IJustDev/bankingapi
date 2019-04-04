@@ -1,7 +1,0 @@
-setup.py
-bankingapi/__init__.py
-bankingapi.egg-info/PKG-INFO
-bankingapi.egg-info/SOURCES.txt
-bankingapi.egg-info/dependency_links.txt
-bankingapi.egg-info/not-zip-safe
-bankingapi.egg-info/top_level.txt
